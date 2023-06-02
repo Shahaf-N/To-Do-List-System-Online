@@ -1,0 +1,125 @@
+body{   
+    background: url("bg.jpg");
+    margin: 0%;
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(0, 9, 64);  
+    position:fixed;
+    width:100%;
+    top:0;
+}
+header > h1,h4{
+    color: darkgrey;   
+   
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgb(0, 9, 64);  
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+footer > p{
+    color: darkgrey; 
+}
+
+
+.boxwrapper{
+    border-radius: 75px;
+    text-align: center;
+    background-color: rgb(0, 9, 64, .4);  
+    border-style: dashed;
+    margin-top: 15%;
+    margin-right: 32%;
+    margin-bottom: 15%;
+    margin-left: 32%;
+    padding: 5%;
+}
+.boxheader{
+    color: yellow;
+}
+.boxfields{
+    color: darkgrey;
+}
+
+
+.submit{
+    background: green;
+    color: yellow;
+}
+.submit:hover{
+    background: yellow;
+    color: green;
+}
+
+
+
+div.imain{
+    color: yellow;
+    text-align: center;
+    margin: 20%;
+}
+
+
+.slist{
+    text-align: center;
+    margin-top: 20%;
+    margin-right: 30%;
+    margin-bottom: 20%;
+    margin-left: 30%;
+}
+.slisth{
+    color: yellow;
+}
+.slfields{
+    color: yellow;
+}
+.slfields > th{
+    color: yellow;
+}
+.slfields > table, th, td{
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+
+div.main{
+    color: yellow;
+    text-align: center;
+}
+
+.mpage{
+    color: yellow;
+    text-align: center;
+    margin-top: 20%;
+    margin-right: 30%;
+    margin-bottom: 20%;
+    margin-left: 30%;
+}
+
+.controlmsg{
+    text-align: center;
+    background-color: rgb(0, 9, 64, .4);  
+    margin-top: 15%;
+    margin-right: 32%;
+    margin-bottom: 15%;
+    margin-left: 32%;
+    padding: 5%;
+}
+.cmsgheader{
+    color: yellow;
+}
+.cmsgfields{
+    color: darkgrey;
+}
+.prevnext{
+     display: flex;
+     justify-content: space-between;
+}
