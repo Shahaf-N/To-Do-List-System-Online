@@ -50,7 +50,7 @@
                             <label>Email:</label>
                             <input type="email" id="Email" name="Email" required><br><br>
                             <label>Password:</label>
-                            <input type="password" id="pass" name"pass" required><br><br>
+                            <input type="password" id="pass" name="pass" required><br><br>
                             <label>Date of birth:</label>
                             <input type="date" id="dat" name="tdate" value="2018-07-22" min="1900-01-01" max="2022-12-31"><br><br>
                             <label>Age:</label>
