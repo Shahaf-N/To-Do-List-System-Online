@@ -2,7 +2,7 @@
 
 To do list system web application, using java servlets, JSP, CSS and HTML.
 Login and register pages that fill into database so everyone can use it.
-When you log in a cookie will with your name so if you come back it will remember you so you don't need to login again.
+When you log in a cookie will be set with your name so if you come back later it will remember you for 1 hour so you don't need to login again.
 For each task you can fill name, description, priority from 1-3 and a deadline.
 Saves users data devided to List's of task's and task's.
 A list of task's can be always managed(adding and removing task).
